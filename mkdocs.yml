@@ -1,0 +1,48 @@
+site_name: User-agent Reference Registry
+site_description: Public references for user-agent organized by OS, software, and hardware
+site_url: https://wildforcer.github.io/ua-registry
+repo_url: https://github.com/wildforcer/ua-registry
+repo_name: GitHub
+
+theme:
+  name: readthedocs
+
+#  features:
+#    - navigation.tabs          # top-level tabs: OS / Software / Hardware / Bots
+#    - navigation.indexes       # folder index pages (os/index.md, software/index.md etc.)
+#    - navigation.top           # back-to-top button
+#    - search.highlight         # highlight search terms on page
+#    - search.suggest           # autocomplete in search box
+#  palette:
+#    - scheme: default
+#      toggle:
+#        icon: material/brightness-7
+#        name: Switch to dark mode
+#    - scheme: slate
+#      toggle:
+#        icon: material/brightness-4
+#        name: Switch to light mode
+#
+#  nav:
+#    - Home: index.md
+#    - OS:
+#        - os/index.md
+#    - Software:
+#        - software/index.md
+#    - Hardware:
+#        - hardware/index.md
+#    - Bots:
+#        - bots/index.md
+#
+#  plugins:
+#    - search
+#
+#  markdown_extensions:
+#    - tables
+#    - attr_list
+#    - admonition
+#    - pymdownx.highlight:
+#        anchor_linenums: true
+#    - pymdownx.superfences
+#    - pymdownx.tabbed:
+#        alternate_style: true
